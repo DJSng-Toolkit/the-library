@@ -49,7 +49,7 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 
 | Name | Author | Notes |
 | --- | --- | --- |
-| [Firefox GX](https://github.com/Godiesc/firefox-gx) | Godiesc | Very cool Opera GX theme for users coming to Firefox. Has a lot of customization for a lot of edge cases. |
+| [✨ Firefox GX](https://github.com/Godiesc/firefox-gx) | Godiesc | Very cool Opera GX theme for users coming to Firefox. Has a lot of customization for a lot of edge cases. |
 
 ### Extensions
 > [!WARNING]
@@ -57,18 +57,19 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 
 | Name | Author | Notes |
 | --- | --- | --- |
-| [uBlock Origin](https://ublockorigin.com/) | Raymond Hill | General ad & content blocker, best on the market. **Does not properly block content on Chromium**, due to blocking content before the page loads not being possible. Some ads might slip through. Also, **their lite version is very limited** and may perform worse. |
+| [🏆 uBlock Origin](https://ublockorigin.com/) | Raymond Hill | General ad & content blocker, best on the market. **Does not properly block content on Chromium**, due to blocking content before the page loads not being possible. Some ads might slip through. Also, **their lite version is very limited** and may perform worse. |
 
 ## Music
 ### Downloading
 | Name | Author | Notes |
 | --- | --- | --- |
-| [Nicotine+](https://nicotine-plus.org/) | Nicotine+ Team | Really good Soulseek client. |
+| [⭐ Nicotine+](https://nicotine-plus.org/) | Nicotine+ Team | Really good Soulseek client. |
 
 ### Playing - Locally
 | Name | Author | Notes |
 | --- | --- | --- |
-| [foobar2000](https://www.foobar2000.org/) | Peter Pawlowski | Amazing local player with a lot of customization.
+| [🏆 foobar2000](https://www.foobar2000.org/) | Peter Pawlowski | Amazing local player with a lot of customization.
+| [AIMP](https://www.aimp.ru/) | ? | - |
 | [MusicBee](https://www.getmusicbee.com/) | ? | - |
 
 ### Playing - Websites
@@ -93,11 +94,11 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 ## Websites
 | Name | Author | Notes |
 | --- | --- | --- |
-| [VanillaTweaks](https://vanillatweaks.net/) | VanillaTweaks team | A good Minecraft resource for texture/resource and datapacks for almost any version of Minecraft that mainly do tweaks for Vanilla use. I always forget to use it, but I've had a lot of fun with it, and some people say their implementation of food hunger regen counts are better than AppleSkin. |
+| [⭐ VanillaTweaks](https://vanillatweaks.net/) | VanillaTweaks team | A good Minecraft resource for texture/resource and datapacks for almost any version of Minecraft that mainly do tweaks for Vanilla use. I always forget to use it, but I've had a lot of fun with it, and some people say their implementation of food hunger regen counts are better than AppleSkin. |
 
 ## Launchers
 (this mirrors Toolkit, but in a slimmed form)
 | Name | Author | Notes |
 | --- | --- | --- |
+| [🏆 Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | Prism Launcher Community | Really awesome Minecraft launcher for modders who need something that the Launcher will handle everything for, while still being light! |
 | [ATLauncher](https://atlauncher.com) | RyanTheAlmighty | ATLauncher is a cool launcher I'd consider a sidegrade to Prism, it trades out some of the flash and charm of Prism like it's MultiMC-like UI and it's resource pack management for server creation and management, as well as other takes on what Prism does. It's a little different than Prism and is sponsored, which some might not like. |
-| [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | Prism Launcher Community | Really awesome Minecraft launcher for modders who need something that the Launcher will handle everything for, while still being light! |
