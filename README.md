@@ -32,6 +32,23 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | [Ivyswell's Tavern - Resources](https://ivyswell-tavern.neocities.org/resources) | [Kie](https://ivyswell-tavern.neocities.org) | Run by a friend on SpaceHey. Very general resources page, with some stuff for scene kids. |
 
 # Technology - Software
+## Windows feature alternatives
+| Name | Author | Notes |
+| --- | --- | --- |
+| [🏆 Directory Opus](https://www.gpsoft.com.au/) | GP Software | Amazing, customizable explorer alternative for Windows File Explorer, with customizable themes, better program support and generally just better performance. **Paid.** |
+| [🏆 Everything](https://www.voidtools.com/) | voidtools | Also called "Voidtools Everything" to avoid confusion. Lightweight alternative to Windows search that uses NTFS Indexing (like Windows) and database caching to keep things fresh. Searches are instant, unlike Windows. |
+| [Explorer++](https://explorerplusplus.com/) | David Erceg | Lightweight, **free to use** alternative for Windows File Explorer. May be buggy. Use the nightly builds for more features, stable was last updated in Janurary 2024. |
+
+## Remote Control
+> [!WARNING]
+> ***NEVER*** install a remote control software if instructed by another user, even if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files.
+
+| Name | Author | Notes |
+| --- | --- | --- |
+| [✨Aspia](https://aspia.org/) | Dmitry Chapyshev | Really cool alternative for TeamViewer. Mac OS and Linux have limited support and are missing features that Windows user have (Mac and Linux users can only connect, Windows users can also host). Requires some technical knowledge. You may need to port forward to connect outside of LAN (i.e: connections outside your house). |
+| [RustDesk](https://rustdesk.com/) | RustDesk community | Good open source alternative for TeamViewer. UI might be a little chopped in places and I've had issues before (connection issues for CA -> US connections, file transfer being a little dog), but it's better than paying to use it and being disconnected everytime you connect with Phone. |
+
+# Technology - Internet
 ## Web Browsing
 ### Browsers
 | Name | Author | Notes |
@@ -59,6 +76,16 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | --- | --- | --- |
 | [🏆 uBlock Origin](https://ublockorigin.com/) | Raymond Hill | General ad & content blocker, best on the market. **Does not properly block content on Chromium**, due to blocking content before the page loads not being possible. Some ads might slip through. Also, **their lite version is very limited** and may perform worse. |
 
+### Tools for the Web
+| Name | Author | Notes |
+| --- | --- | --- |
+| [GitHub Wiki TOC Generator](https://ecotrust-canada.github.io/markdown-toc/) | John Schlinkert | A generator for making Table of Contents in Markdown, great for GitHub Wiki and READMEs. Used on this page! Linked is an outdated fork hosted by another user. |
+
+### Other Cool Websites
+| Name | Author | Notes |
+| --- | --- | --- |
+| [WinAmp Skin Museum](https://skins.webamp.org/) | Jordan Eldredge | Huge archive of WinAmp skins that's usable in your web browser thanks to Webamp. |
+
 ## Music
 ### Downloading
 | Name | Author | Notes |
@@ -71,6 +98,7 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | [🏆 foobar2000](https://www.foobar2000.org/) | Peter Pawlowski | Amazing local player with a lot of customization.
 | [AIMP](https://www.aimp.ru/) | Artem Izmaylov | Very cool music player that I used to use a lot. **The main page may be in Russian** because the author is Russian. Most of the site should be in English. | 
 | [MusicBee](https://www.getmusicbee.com/) | 	Steven Mayall | MusicBee is a pretty cool alternative player. It has built-in last.fm support. |
+| [WACUP](https://getwacup.com/) | DrO | 
 
 ### Playing - Websites
 
@@ -95,6 +123,7 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | Name | Author | Notes |
 | --- | --- | --- |
 | [⭐ VanillaTweaks](https://vanillatweaks.net/) | VanillaTweaks team | A good Minecraft resource for texture/resource and datapacks for almost any version of Minecraft that mainly do tweaks for Vanilla use. I always forget to use it, but I've had a lot of fun with it, and some people say their implementation of food hunger regen counts are better than AppleSkin. |
+| [Minecraft Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/) | htmlcolorcodes.com | Color codes for MOTDs. Does not include the icon you need for Chat, Signs and/or Resource Packs. |
 
 ## Launchers
 (this mirrors Toolkit, but in a slimmed form)
@@ -102,3 +131,19 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | --- | --- | --- |
 | [🏆 Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | Prism Launcher Community | Really awesome Minecraft launcher for modders who need something that the Launcher will handle everything for, while still being light! |
 | [ATLauncher](https://atlauncher.com) | RyanTheAlmighty | ATLauncher is a cool launcher I'd consider a sidegrade to Prism, it trades out some of the flash and charm of Prism like it's MultiMC-like UI and it's resource pack management for server creation and management, as well as other takes on what Prism does. It's a little different than Prism and is sponsored, which some might not like. |
+
+# Guides
+| Name | Author | Notes |
+| --- | --- | --- |
+| [Connecting NeoCities to your Discord Profile](https://gist.github.com/hf02/1570e009bd337bc09db6f3e3c29938ca) | hf02 | N/A |
+
+# Avoid
+## Software - Remote Control
+| Name | Notes |
+| --- | --- |
+| [TeamViewer](https://www.teamviewer.com/en-ca/) | Where to start? They can randomly disconnect you if they think you're not using it for personal use, they have begun to integrate AI, you can no longer file transfer for free, and their mobile support having gone to shit recently. Use an alternative instead. |
+
+## Software - Music
+| Name | Notes |
+| --- | --- |
+| [Winamp](https://winamp.com/) | Just use WACUP, which is from an OFFICIAL developer of WinAmp who is still around. The company that current owns Winamp have tried to integrate NFTs in Winamp, and modern Winamp is mostly targetted for mobile. Their legacy builds for Winamp (5.x) are terrible and have been known to be buggy. |
