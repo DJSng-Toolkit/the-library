@@ -31,7 +31,6 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
   * [Music](#music)
     + [Downloading](#downloading)
     + [Playing - Locally](#playing---locally)
-    + [Playing - Websites](#playing---websites)
     + [Playing - Streaming](#playing---streaming)
 - [Gaming - General](#gaming---general)
 - [Gaming - Minecraft](#gaming---minecraft)
@@ -44,6 +43,9 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
   * [Software - Music](#software---music)
 
 # Other resource pages
+Pages that are specifically designed just to provide resources.  
+Includes really good resource pages by Neocities users, as well as general resources.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [🏆 FREEMEDIAHECKYEAH](https://fmhy.net/) | Estd & FMHY Community | Amazing general resources page. Has free and paid stuff, great for those who might be new to sailing and/or just need alternative software for popular solutions. |
@@ -51,6 +53,9 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 
 # Technology - Software
 ## Windows feature alternatives
+Software that's mainly used to replace Windows functionalities by optimizing them, doing them differently, etc.  
+Some of these may not be able to reverted.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [🏆 Directory Opus](https://www.gpsoft.com.au/) | GP Software | Amazing, customizable explorer alternative for Windows File Explorer, with customizable themes, better program support and generally just better performance. **Paid.** |
@@ -63,6 +68,8 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 > 
 > You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
 
+Software that allows you to access a device from another device.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [✨ Aspia](https://aspia.org/) | Dmitry Chapyshev | Really cool alternative for TeamViewer. Mac OS and Linux have limited support and are missing features that Windows user have (Mac and Linux users can only connect, Windows users can also host). Requires some technical knowledge. You may need to port forward to connect outside of LAN (i.e: connections outside your house). |
@@ -71,6 +78,8 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 # Technology - Internet
 ## Web Browsing
 ### Browsers
+Software that lets you browse the web.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [🏆 Firefox](https://www.firefox.com) | Mozilla | Great default browser if you want effective adblocking, no bullshit and browser themes that do more than change the colors. Good as a "de-facto" if you need more resources.
@@ -84,6 +93,8 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 > [!IMPORTANT]
 > All themes here require manual install that may be confusing to some users.
 
+Firefox themes, mostly built on CSS.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [✨ Firefox GX](https://github.com/Godiesc/firefox-gx) | Godiesc | Very cool Opera GX theme for users coming to Firefox. Has a lot of customization for a lot of edge cases. |
@@ -92,27 +103,38 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 > [!WARNING]
 > This section is mainly tailored to Firefox user.
 
+Extensions you can add to your browser to do more.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [🏆 uBlock Origin](https://ublockorigin.com/) | Raymond Hill | General ad & content blocker, best on the market. **Does not properly block content on Chromium**, due to blocking content before the page loads not being possible. Some ads might slip through. Also, **their lite version is very limited** and may perform worse. |
 
 ### Tools for the Web
+Tools on the web, for the web.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [GitHub Wiki TOC Generator](https://ecotrust-canada.github.io/markdown-toc/) | John Schlinkert | A generator for making Table of Contents in Markdown, great for GitHub Wiki and READMEs. Used on this page! Linked is an outdated fork hosted by another user. |
 
 ### Other Cool Websites
+Cool websites that don't fit any other category.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [WinAmp Skin Museum](https://skins.webamp.org/) | Jordan Eldredge | Huge archive of WinAmp skins that's usable in your web browser thanks to Webamp. |
 
 ## Music
 ### Downloading
+Tools to download music.  
+Be responsible.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [⭐ Nicotine+](https://nicotine-plus.org/) | Nicotine+ Team | Really good Soulseek client. |
 
 ### Playing - Locally
+Tools to play music from local files. Great if you download your music.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [🏆 foobar2000](https://www.foobar2000.org/) | Peter Pawlowski | Amazing local player with a lot of customization.
@@ -121,17 +143,26 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | [WACUP](https://getwacup.com/) | DrO | 
 
 ### Playing - Websites
+Websites where you can play and stream music without downloading a single thing.
 
-### Playing - Streaming
+| Name | Author | Notes |
+| --- | --- | --- |
 
 
 # Gaming - General
+General gaming resources and guides that can apply to a variety of games.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [✨ PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) | PCGamingWiki Community | Great resource for older video games. Some of its pages (like Minecraft) might be a little tacky if they have active modding communities that have resources best found elsewhere. |
 
 # Gaming - Minecraft
+Content for Minecraft.
+
 ## Lists
+Lists of mods and tools.  
+Also check out [Tookit](https://github.com/DJSng-Toolkit/Toolkit/blob/main/mc/README.md)!
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [⭐ MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide) | Radk6 | A more minimalist take on TheUsefulLists. Where Toolkit is more "maximalist" and might be a bit much, this guide is nice and minimal. |
@@ -140,24 +171,36 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | [List of "Essential" 1.7.10 Mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c) | Makamys | Good list that goes more in depth about 1.7 options, for retro modders. |
 
 ## Websites
+Websites for Minecraft resources and such.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [⭐ VanillaTweaks](https://vanillatweaks.net/) | VanillaTweaks team | A good Minecraft resource for texture/resource and datapacks for almost any version of Minecraft that mainly do tweaks for Vanilla use. I always forget to use it, but I've had a lot of fun with it, and some people say their implementation of food hunger regen counts are better than AppleSkin. |
 | [Minecraft Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/) | htmlcolorcodes.com | Color codes for MOTDs. Does not include the icon you need for Chat, Signs and/or Resource Packs. |
 
 ## Launchers
-(this mirrors Toolkit, but in a slimmed form)
+> [!INFO]
+> This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
+
+Tools that let you play the game, with bonuses!
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [🏆 Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | Prism Launcher Community | Really awesome Minecraft launcher for modders who need something that the Launcher will handle everything for, while still being light! |
+| [⭐ Modrinth App](https://modrinth.com/app) | Modrinth | I've not used it myself, but I've heard from many people that Modrinth's own launcher (called Modrinth App) is considered an amazing option for beginners. |
 | [ATLauncher](https://atlauncher.com) | RyanTheAlmighty | ATLauncher is a cool launcher I'd consider a sidegrade to Prism, it trades out some of the flash and charm of Prism like it's MultiMC-like UI and it's resource pack management for server creation and management, as well as other takes on what Prism does. It's a little different than Prism and is sponsored, which some might not like. |
+| [MultiMC](https://multimc.org/) | MultiMC team | Originally a GOAT of the Minecraft launcher space, but Prism outdoes MultIMC nowadays as Prism manages more instance stuff that MultiMC makes you do manually. |
 
 # Guides
+Tutorials and walkthroughs on how to do cool things.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [Connecting NeoCities to your Discord Profile](https://gist.github.com/hf02/1570e009bd337bc09db6f3e3c29938ca) | hf02 | N/A |
 
 # Avoid
+Software you should avoid for different reasons, such as possibly containing malware, generally being poor software, being run by shit companies, etc.
+
 ## Software - Remote Control
 | Name | Notes |
 | --- | --- |
@@ -167,3 +210,7 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | Name | Notes |
 | --- | --- |
 | [Winamp](https://winamp.com/) | Just use WACUP, which is from an OFFICIAL developer of WinAmp who is still around. The company that current owns Winamp have tried to integrate NFTs in Winamp, and modern Winamp is mostly targetted for mobile. Their legacy builds for Winamp (5.x) are terrible and have been known to be buggy. |
+
+## Software - Games
+
+| [TLauncher](https://tlauncher.org/) | Not to be confused with [TLauncher Legacy](https://archive.org/details/tl-legacy-installer-legacy_20240328). Shitty, Russian based Minecraft launcher that has been known several times to contain malware. |
