@@ -5,7 +5,6 @@ Jericho's Library is the new, permanent home of my resources page, which was pre
 This page is mostly inspired by FMHY, with a bit of redundant resources removed every once and a while, or an occasional site that I like, that nobody's ever talked about.  
 
 **This page is structured differently than other DJSng's Toolkit resources**, where this README holds all of the resources with no changes or extra click.  
-Please note that this page is still under construction. I mostly operate this entire thing alone. If you want to read something more complete, please read [the old guide](oldguide.md) that was up long before this draft.
 
 This page does not include anything listed on DJSng's Toolkit, as that's not its purpose. You should still read [DJSng's Toolkit's library of resources](https://github.com/djsng-toolkit/index) if something interests you.
 
