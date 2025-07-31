@@ -25,25 +25,70 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
   * [Websites](#websites)
   * [Launchers](#launchers)
 
-# Other resources
+# Other resource pages
 | Name | Author | Notes |
 | --- | --- | --- |
-| [FREEMEDIAHECKYEAH](https://fmhy.net/) | Estd & FMHY Community | Amazing general resources page. Has free and paid stuff, great for those who might be new to sailing and/or just need alternative software for popular solutions. |
+| [🏆 FREEMEDIAHECKYEAH](https://fmhy.net/) | Estd & FMHY Community | Amazing general resources page. Has free and paid stuff, great for those who might be new to sailing and/or just need alternative software for popular solutions. |
 | [Ivyswell's Tavern - Resources](https://ivyswell-tavern.neocities.org/resources) | [Kie](https://ivyswell-tavern.neocities.org) | Run by a friend on SpaceHey. Very general resources page, with some stuff for scene kids. |
+
+# Technology - Software
+## Web Browsing
+### Browsers
+| Name | Author | Notes |
+| --- | --- | --- |
+| [🏆 Firefox](https://www.firefox.com) | Mozilla | Great default browser if you want effective adblocking, no bullshit and browser themes that do more than change the colors. Good as a "de-facto" if you need more resources.
+| [⭐ Floorp](https://floorp.app) | Ablaze | Amazing Firefox fork with some more customization options than Firefox and some other features. Works with Mozilla Sync. Floorp 12 may be hostile to some themes, especially FirefoxGX. If you plan to use themes and want to be safe, either downgrade to Floorp 11 (until it goes out of support) or move to base Firefox instead. |
+| [✨ Supermium](https://github.com/win32ss/supermium) | win32ss | A very cool fork of Google's "Chromium" browser engine, which is basically just open source Google Chrome with some very minor stuff missing. Has support for below Windows 10, and some Manifest V2 Extension support. **Not a replacement for Firefox**, do not use if you are vulnerable to ads, the adblocking is not as effective as Firefox. |
+| [Brave](https://brave.com/) | Brave Team | An alright Chromium option with an adblocker that has the goal of reaching uBlock Origins level of good, even after Manifest V3's death. I have beef with their AI and Crypto inclusions. Also, they've been known to Cryptojack and such, use at your own risk. |
+| [Vivaldi](https://vivaldi.com/) | Vivaldi Team | Very cool Chromium option that's run by the former head of Opera. **Their adblocker sucks**, do not use it. |
+| [Zen Browser](https://zen-browser.app/) | Zen Team | Cool fork of Firefox with an alternative take on the UI. Also has a "mods" store which has some CSS snippets that might be of help. You might not want to use themes with this. |
+
+### Firefox Themes
+> [!IMPORTANT]
+> All themes here require manual install that may be confusing to some users.
+
+| Name | Author | Notes |
+| --- | --- | --- |
+| [Firefox GX](https://github.com/Godiesc/firefox-gx) | Godiesc | Very cool Opera GX theme for users coming to Firefox. Has a lot of customization for a lot of edge cases. |
+
+### Extensions
+> [!WARNING]
+> This section is mainly tailored to Firefox user.
+
+| Name | Author | Notes |
+| --- | --- | --- |
+| [uBlock Origin](https://ublockorigin.com/) | Raymond Hill | General ad & content blocker, best on the market. **Does not properly block content on Chromium**, due to blocking content before the page loads not being possible. Some ads might slip through. Also, **their lite version is very limited** and may perform worse. |
+
+## Music
+### Downloading
+| Name | Author | Notes |
+| --- | --- | --- |
+| [Nicotine+](https://nicotine-plus.org/) | Nicotine+ Team | Really good Soulseek client. |
+
+### Playing - Locally
+| Name | Author | Notes |
+| --- | --- | --- |
+| [foobar2000](https://www.foobar2000.org/) | Peter Pawlowski | Amazing local player with a lot of customization.
+| [MusicBee](https://www.getmusicbee.com/) | ? | - |
+
+### Playing - Websites
+
+### Playing - Streaming
+
 
 # Gaming - General
 | Name | Author | Notes |
 | --- | --- | --- |
-| [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) | PCGamingWiki Community | Great resource for older video games. Some of its pages (like Minecraft) might be a little tacky if they have active modding communities that have resources best found elsewhere. |
+| [✨ PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) | PCGamingWiki Community | Great resource for older video games. Some of its pages (like Minecraft) might be a little tacky if they have active modding communities that have resources best found elsewhere. |
 
 # Gaming - Minecraft
 ## Lists
 | Name | Author | Notes |
 | --- | --- | --- |
+| [⭐ MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide) | Radk6 | A more minimalist take on TheUsefulLists. Where Toolkit is more "maximalist" and might be a bit much, this guide is nice and minimal. |
+| [⭐ UsefulMods](https://github.com/TheUsefulLists/UsefulMods) | TheUsefulLists | The original inspiration for this list! They focus on actually clumping together mods rather than being selective about mods like I'm aiming for, so they might also have a few extra mods I miss. |
 | [Legacy Fabric Mod Compatibility List](legacyfabric.net/mods.html)  | Legacy Fabric | General list for mod compatibility for Legacy Fabric supported versions. |
 | [List of "Essential" 1.7.10 Mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c) | Makamys | Good list that goes more in depth about 1.7 options, for retro modders. |
-| [MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide) | Radk6 | A more minimalist take on TheUsefulLists. Where Toolkit is more "maximalist" and might be a bit much, this guide is nice and minimal.
-| [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) |TheUsefulLists | The original inspiration for this list! They focus on actually clumping together mods rather than being selective about mods like I'm aiming for, so they might also have a few extra mods I miss. |
 
 ## Websites
 | Name | Author | Notes |
