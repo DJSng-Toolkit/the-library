@@ -31,7 +31,7 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
   * [Music](#music)
     + [Downloading](#downloading)
     + [Playing - Locally](#playing---locally)
-    + [Playing - Streaming](#playing---streaming)
+    + [Playing - Websites](#playing---websites)
 - [Gaming - General](#gaming---general)
 - [Gaming - Minecraft](#gaming---minecraft)
   * [Lists](#lists)
@@ -41,6 +41,7 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 - [Avoid](#avoid)
   * [Software - Remote Control](#software---remote-control)
   * [Software - Music](#software---music)
+  * [Software - Games](#software---games)
 
 # Other resource pages
 Pages that are specifically designed just to provide resources.  
