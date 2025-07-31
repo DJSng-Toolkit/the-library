@@ -18,12 +18,31 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 
 <!-- contributors please use https://ecotrust-canada.github.io/markdown-toc/ to generate the TOC with every change -->
 # Table of Contents
-- [Other resources](#other-resources)
+- [Other resource pages](#other-resource-pages)
+- [Technology - Software](#technology---software)
+  * [Windows feature alternatives](#windows-feature-alternatives)
+  * [Remote Control](#remote-control)
+- [Technology - Internet](#technology---internet)
+  * [Web Browsing](#web-browsing)
+    + [Browsers](#browsers)
+    + [Firefox Themes](#firefox-themes)
+    + [Extensions](#extensions)
+    + [Tools for the Web](#tools-for-the-web)
+    + [Other Cool Websites](#other-cool-websites)
+  * [Music](#music)
+    + [Downloading](#downloading)
+    + [Playing - Locally](#playing---locally)
+    + [Playing - Websites](#playing---websites)
+    + [Playing - Streaming](#playing---streaming)
 - [Gaming - General](#gaming---general)
 - [Gaming - Minecraft](#gaming---minecraft)
   * [Lists](#lists)
   * [Websites](#websites)
   * [Launchers](#launchers)
+- [Guides](#guides)
+- [Avoid](#avoid)
+  * [Software - Remote Control](#software---remote-control)
+  * [Software - Music](#software---music)
 
 # Other resource pages
 | Name | Author | Notes |
