@@ -60,7 +60,9 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 
 ## Remote Control
 > [!WARNING]
-> ***NEVER*** install a remote control software if instructed by another user, especially if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files. You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
+> ***NEVER*** install a remote control software if instructed by another user, especially if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files. 
+> 
+> You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
 
 | Name | Author | Notes |
 | --- | --- | --- |
