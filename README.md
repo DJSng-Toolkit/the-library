@@ -60,11 +60,11 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 
 ## Remote Control
 > [!WARNING]
-> ***NEVER*** install a remote control software if instructed by another user, even if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files.
+> ***NEVER*** install a remote control software if instructed by another user, especially if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files. You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
 
 | Name | Author | Notes |
 | --- | --- | --- |
-| [✨Aspia](https://aspia.org/) | Dmitry Chapyshev | Really cool alternative for TeamViewer. Mac OS and Linux have limited support and are missing features that Windows user have (Mac and Linux users can only connect, Windows users can also host). Requires some technical knowledge. You may need to port forward to connect outside of LAN (i.e: connections outside your house). |
+| [✨ Aspia](https://aspia.org/) | Dmitry Chapyshev | Really cool alternative for TeamViewer. Mac OS and Linux have limited support and are missing features that Windows user have (Mac and Linux users can only connect, Windows users can also host). Requires some technical knowledge. You may need to port forward to connect outside of LAN (i.e: connections outside your house). |
 | [RustDesk](https://rustdesk.com/) | RustDesk community | Good open source alternative for TeamViewer. UI might be a little chopped in places and I've had issues before (connection issues for CA -> US connections, file transfer being a little dog), but it's better than paying to use it and being disconnected everytime you connect with Phone. |
 
 # Technology - Internet
