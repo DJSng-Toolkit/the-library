@@ -69,8 +69,8 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | Name | Author | Notes |
 | --- | --- | --- |
 | [🏆 foobar2000](https://www.foobar2000.org/) | Peter Pawlowski | Amazing local player with a lot of customization.
-| [AIMP](https://www.aimp.ru/) | ? | - |
-| [MusicBee](https://www.getmusicbee.com/) | ? | - |
+| [AIMP](https://www.aimp.ru/) | Artem Izmaylov | Very cool music player that I used to use a lot. **The main page may be in Russian** because the author is Russian. Most of the site should be in English. | 
+| [MusicBee](https://www.getmusicbee.com/) | 	Steven Mayall | MusicBee is a pretty cool alternative player. It has built-in last.fm support. |
 
 ### Playing - Websites
 
