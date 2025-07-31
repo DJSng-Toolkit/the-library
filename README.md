@@ -1,6 +1,5 @@
 # Jericho's Library (by DJSng)
 ### A general resources page of various topics.
-<!-- contributors please use https://ecotrust-canada.github.io/markdown-to to generate the TOC with every change -->
 Jericho's Library is the new, permanent home of my resources page, which was present on my site (and prior, on my SpaceHey) for approximately two years. I have decided to move it under a GitHub organization like the rest of my Toolkit related projects, where it can happily stay.  
 
 This page is mostly inspired by FMHY, with a bit of redundant resources removed every once and a while, or an occasional site that I like, that nobody's ever talked about.  
@@ -17,24 +16,16 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | ⭐ | "Best of" resource |
 | ✨ | Unique resource |
 
-
+<!-- contributors please use https://ecotrust-canada.github.io/markdown-toc/ to generate the TOC with every change -->
 # Table of Contents
-- [Meta](#meta)
-  * [Old version of this page](#old-version-of-this-page)
-  * [Other resource directories](#other-resource-directories)
+- [Other resources](#other-resources)
 - [Gaming - General](#gaming---general)
 - [Gaming - Minecraft](#gaming---minecraft)
   * [Lists](#lists)
   * [Websites](#websites)
   * [Launchers](#launchers)
 
-# Meta
-
-## Old version of this page
-
-
-## Other resource directories
-
+# Other resources
 | Name | Author | Notes |
 | --- | --- | --- |
 | [FREEMEDIAHECKYEAH](https://fmhy.net/) | Estd & FMHY Community | Amazing general resources page. Has free and paid stuff, great for those who might be new to sailing and/or just need alternative software for popular solutions. |
