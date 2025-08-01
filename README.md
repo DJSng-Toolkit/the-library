@@ -183,6 +183,8 @@ Clones of games.
 ## Flash
 Adobe Flash resources.
 
+| Name | Author | Notes |
+| --- | --- | --- |
 | [🏆 Flashpoint Archive](https://flashpointarchive.org/) | Flashpoint Team | Free program that lets you play a bunch of archived games, mostly Flash but also some other game engines. Amazing project. |
 | [Ninia Kiwi Archive](https://ninjakiwi.com/archive) | Ninja Kiwi | Has a bunch of old free gmaes fron Ninja Kiwi's archive. |
 
