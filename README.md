@@ -153,12 +153,56 @@ Websites where you can play and stream music without downloading a single thing.
 # Gaming - General
 General gaming resources and guides that can apply to a variety of games.
 
+## Resources & Guides
+Guides and resources for a big collection of games... Duh.
+
 | Name | Author | Notes |
 | --- | --- | --- |
 | [✨ PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) | PCGamingWiki Community | Great resource for older video games. Some of its pages (like Minecraft) might be a little tacky if they have active modding communities that have resources best found elsewhere. |
 
+## Play on the Web
+Games you can play on the web!
+
+| Name | Author | Notes |
+| --- | --- | --- |
+| [Pac Man](https://masonicgit.github.io/pacman/) | Masonicgit | An online version of Pac Man with extra features. |
+
+## Clones
+Clones of games.
+
+| Name | Author | Notes |
+| --- | --- | --- |
+| [Luanti](https://www.luanti.org/) | Luanti Team | Formerly known as Minetest. Minecraft clone and fangame. |
+
+## Flash
+Adobe Flash resources.
+
+| [🏆 Flashpoint Archive](https://flashpointarchive.org/) | Flashpoint Team | Free program that lets you play a bunch of archived games, mostly Flash but also some other game engines. Amazing project. |
+| [Ninia Kiwi Archive](https://ninjakiwi.com/archive) | Ninja Kiwi | Has a bunch of old free gmaes fron Ninja Kiwi's archive. |
+
+## More Games
+Even more games you can try.
+
+
 # Gaming - Minecraft
 Content for Minecraft.
+
+## Launchers
+> [!INFO]
+> This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
+
+Tools that let you play the game, with bonuses!
+
+| Name | Author | Notes |
+| --- | --- | --- |
+| [🏆 Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | Prism Launcher Community | Really awesome Minecraft launcher for modders who need something that the Launcher will handle everything for, while still being light! |
+| [⭐ BetaCraft](https://betacraft.uk/) | Betacraft Team | Retro launcher for older versions of Minecraft. Mainly only plays game versions before 1.6. Also makes skins work and such! |
+| [⭐ Modrinth App](https://modrinth.com/app) | Modrinth | I've not used it myself, but I've heard from many people that Modrinth's own launcher (called Modrinth App) is considered an amazing option for beginners. |
+| [✨ ATLauncher](https://atlauncher.com) | RyanTheAlmighty | ATLauncher is a cool launcher I'd consider a sidegrade to Prism, it trades out some of the flash and charm of Prism like it's MultiMC-like UI and it's resource pack management for server creation and management, as well as other takes on what Prism does. It's a little different than Prism and is sponsored, which some might not like. |
+| [✨ Quantum Launcher](https://github.com/Mrmayman/quantumlauncher) | Mrmayman | Alternative launcher for Minecraft that's said to be very lightweight. Only a year old. |
+| [Bedrock Launcher](https://bedrocklauncher.github.io/) | Carjem | Alternative launcher for Minecraft: Bedrock Edition. Lets you download any version from any point. **This is the only Bedrock entry.** |
+| [MultiMC](https://multimc.org/) | MultiMC team | Originally a GOAT of the Minecraft launcher space, but Prism outdoes MultIMC nowadays as Prism manages more instance stuff that MultiMC makes you do manually. |
+| [Prism Launcher (ely.by fork)](https://github.com/ElyPrismLauncher/ElyPrismLauncher) | Octol1ttle | Fork of Prism for support for the ely.by Minecraft custom skin system. Mainly for users who use that service. |
 
 ## Lists
 Lists of mods and tools.  
@@ -171,36 +215,36 @@ Also check out [Tookit](https://github.com/DJSng-Toolkit/Toolkit/blob/main/mc/RE
 | [Legacy Fabric Mod Compatibility List](legacyfabric.net/mods.html)  | Legacy Fabric | General list for mod compatibility for Legacy Fabric supported versions. |
 | [List of "Essential" 1.7.10 Mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c) | Makamys | Good list that goes more in depth about 1.7 options, for retro modders. |
 
+## Software
+Software for Minecraft that isn't launchers.
+
+| Name | Author | Notes |
+| --- | --- | --- |
+| [MCreate](https://mcreator.net/) | MCreator Team | Very basic mod creator. Don't expect anything fancy. |
+
 ## Websites
 Websites for Minecraft resources and such.
 
 | Name | Author | Notes |
 | --- | --- | --- |
+| [🏆 Omniarchive](https://omniarchive.uk/) | Omniarchive team | Amazing version archive of all of Minecraft's obscure versions. Mainly for older versions, but they have newer stuff too. |
 | [⭐ VanillaTweaks](https://vanillatweaks.net/) | VanillaTweaks team | A good Minecraft resource for texture/resource and datapacks for almost any version of Minecraft that mainly do tweaks for Vanilla use. I always forget to use it, but I've had a lot of fun with it, and some people say their implementation of food hunger regen counts are better than AppleSkin. |
+| [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) | Aikar | Alternative Java JVM flags for Minecraft. Might benefit some users. Be careful. |
+| [Essential Alternatives](https://notessential.blurry.gay/) | devin | Good list of alternatives for Essential. If you need Essential as a dependancy, use Not So Essential mod. |
 | [Minecraft Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/) | htmlcolorcodes.com | Color codes for MOTDs. Does not include the icon you need for Chat, Signs and/or Resource Packs. |
+| [PCGamingWiki's page on Minecraft](https://www.pcgamingwiki.com/wiki/Minecraft:_Java_Edition) | PCGamingWiki Community | General information. Not as effective as mod lists, so maybe don't lean on its advice too hard. |
 
-## Launchers
-> [!INFO]
-> This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
-
-Tools that let you play the game, with bonuses!
-
-| Name | Author | Notes |
-| --- | --- | --- |
-| [🏆 Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | Prism Launcher Community | Really awesome Minecraft launcher for modders who need something that the Launcher will handle everything for, while still being light! |
-| [⭐ Modrinth App](https://modrinth.com/app) | Modrinth | I've not used it myself, but I've heard from many people that Modrinth's own launcher (called Modrinth App) is considered an amazing option for beginners. |
-| [ATLauncher](https://atlauncher.com) | RyanTheAlmighty | ATLauncher is a cool launcher I'd consider a sidegrade to Prism, it trades out some of the flash and charm of Prism like it's MultiMC-like UI and it's resource pack management for server creation and management, as well as other takes on what Prism does. It's a little different than Prism and is sponsored, which some might not like. |
-| [MultiMC](https://multimc.org/) | MultiMC team | Originally a GOAT of the Minecraft launcher space, but Prism outdoes MultIMC nowadays as Prism manages more instance stuff that MultiMC makes you do manually. |
-
-# Guides
+# General guides
 Tutorials and walkthroughs on how to do cool things.
 
 | Name | Author | Notes |
 | --- | --- | --- |
 | [Connecting NeoCities to your Discord Profile](https://gist.github.com/hf02/1570e009bd337bc09db6f3e3c29938ca) | hf02 | N/A |
+| [Prism4Free](https://rentry.co/prism4free) | Pancakes, DomHeadroom, LTSC recommender, InternetNinja, TheRedSpecial | Guide for cracking Prism Launcher, so you can play offline. Does not require a fork at all. Good if you don't want to use a fork. |
 
 # Avoid
-Software you should avoid for different reasons, such as possibly containing malware, generally being poor software, being run by shit companies, etc.
+Software you should avoid for different reasons, such as possibly containing malware, generally being poor software, being run by shit companies, etc.  
+Also check in with [FMHY](https://fmhy.net/unsafesites), which covers more software I haven't included.
 
 ## Software - Remote Control
 | Name | Notes |
