@@ -269,5 +269,6 @@ Also check in with [FMHY](https://fmhy.net/unsafesites), which covers more softw
 | [Winamp](https://winamp.com/) | Just use WACUP, which is from an OFFICIAL developer of WinAmp who is still around. The company that current owns Winamp have tried to integrate NFTs in Winamp, and modern Winamp is mostly targetted for mobile. Their legacy builds for Winamp (5.x) are terrible and have been known to be buggy. |
 
 ## Software - Games
-
+| Name | Notes |
+| --- | --- |
 | [TLauncher](https://tlauncher.org/) | Not to be confused with [TLauncher Legacy](https://archive.org/details/tl-legacy-installer-legacy_20240328). Shitty, Russian based Minecraft launcher that has been known several times to contain malware. |
