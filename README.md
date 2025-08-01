@@ -70,7 +70,7 @@ Some of these may not be able to reverted.
 | [Explorer++](https://explorerplusplus.com/) | David Erceg | Lightweight, **free to use** alternative for Windows File Explorer. May be buggy. Use the nightly builds for more features, stable was last updated in Janurary 2024. |
 
 ## Remote Control
-> [!WARNING]
+> [!WARNING]  
 > ***NEVER*** install a remote control software if instructed by another user, especially if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files. 
 > 
 > You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
@@ -194,7 +194,7 @@ Even more games you can try.
 Content for Minecraft.
 
 ## Launchers
-> [!INFO]
+> [!NOTE]
 > This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
 
 Tools that let you play the game, with bonuses!
