@@ -1,5 +1,5 @@
-# Jericho's Library (by DJSng)
-### A general resources page of various topics.
+# TOOLKIT HAS MOVED. IT CAN NOW BE FOUND [HERE](https://djsng-toolkit.github.io/)
+
 Jericho's Library is the new, permanent home of my resources page, which was present on my site (and prior, on my SpaceHey) for approximately two years. I have decided to move it under a GitHub organization like the rest of my Toolkit related projects, where it can happily stay.  
 
 This page is mostly inspired by FMHY, with a bit of redundant resources removed every once and a while, or an occasional site that I like, that nobody's ever talked about.  
