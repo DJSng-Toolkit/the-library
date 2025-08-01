@@ -221,18 +221,21 @@ Software for Minecraft that isn't launchers.
 | Name | Author | Notes |
 | --- | --- | --- |
 | [MCreate](https://mcreator.net/) | MCreator Team | Very basic mod creator. Don't expect anything fancy. |
+| [NBT Studio](https://github.com/tryashtar/nbt-studio/) | Tryashtar | An updated fork of NBTExplorer. Lets you look through Minecraft level data, playerdata, as well as anything NBT related. |
 
 ## Websites
 Websites for Minecraft resources and such.
 
 | Name | Author | Notes |
 | --- | --- | --- |
+| [🏆 NameMC](https://namemc.com/) | NameMC Team | Website for viewing servers, skins, and usernames. |
 | [🏆 Omniarchive](https://omniarchive.uk/) | Omniarchive team | Amazing version archive of all of Minecraft's obscure versions. Mainly for older versions, but they have newer stuff too. |
 | [⭐ VanillaTweaks](https://vanillatweaks.net/) | VanillaTweaks team | A good Minecraft resource for texture/resource and datapacks for almost any version of Minecraft that mainly do tweaks for Vanilla use. I always forget to use it, but I've had a lot of fun with it, and some people say their implementation of food hunger regen counts are better than AppleSkin. |
 | [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) | Aikar | Alternative Java JVM flags for Minecraft. Might benefit some users. Be careful. |
 | [Essential Alternatives](https://notessential.blurry.gay/) | devin | Good list of alternatives for Essential. If you need Essential as a dependancy, use Not So Essential mod. |
 | [Minecraft Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/) | htmlcolorcodes.com | Color codes for MOTDs. Does not include the icon you need for Chat, Signs and/or Resource Packs. |
 | [PCGamingWiki's page on Minecraft](https://www.pcgamingwiki.com/wiki/Minecraft:_Java_Edition) | PCGamingWiki Community | General information. Not as effective as mod lists, so maybe don't lean on its advice too hard. |
+| [ShaderLABS](https://shaderlabs.org/wiki/Main_Page) | ??? | Resources for Shaders, such as what's most updated and some FAQs. |
 
 # General guides
 Tutorials and walkthroughs on how to do cool things.
